@@ -24,10 +24,13 @@ The column we will use for modelling is Suburb, Rooms, Type of building, Distanc
 <h3> 3. Modelling </h3>
 I started modelling with Linear model and do Gauss-Markov analysis of residual data to determine if linear model is applicable for our dataset. Turned out based on Gauss-Markov analysis, residual data is not meet our assumption, thus linear model is not applicable for our data.
  <br>
+ <br> 
 Second model is Random Forest, which is decision tree based ensemble algorithm and not affected by multicolinearity. Although we get faily acceptable test result of r2 with 0,75 but using training result, we get r2 point by 0,96 which is too much difference and i afraid that the model is overfitting. 
  <br>
+ <br>
 Third model i use is Gradient Boosting, which is also decision tree based ensemble algorithm and not affected by multicolinearity. And after training the data and hyperparameter tuning we get fairly good result by 0,80.
-<br> 
+<br>
+<br>
 <h3> 4. Performance evaluation </h3>
 for performance evaluation, i use RMSE and r2 for metric performance. With, RMSE we get result of 294918.04, it means our predicted value can range within RMSE value. For example, if we get predicted value $ 1,000,000 the actual value may be range within $ 1,000,000 + $ 294,918 and $ 1,000,000 - $ 294,918. By using r2 it means how much of model can explained variance of the data. The perfect score would be 1, but as long as we get as close to 1 it's and by comparing different model we should get the best result.
 <h3> 5. Validation Model </h3>
