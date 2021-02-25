@@ -48,7 +48,7 @@ Doing validation model is very usefull to check the stability of the model that 
 --------------------------------------------------------------------
 
 <p align="center"  color="rgb(0, 90, 71)">
-<h1>Dashboard</h1>
+<h2>Dashboard</h2>
 </p>
 <br>
 
