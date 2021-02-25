@@ -32,9 +32,10 @@ Third model i use is Gradient Boosting, which is also decision tree based ensemb
 <br>
 <br>
 <h3> 4. Performance evaluation </h3>
-for performance evaluation, i use RMSE and r2 for metric performance. With, RMSE we get result of 294918.04, it means our predicted value can range within RMSE value. For example, if we get predicted value $ 1,000,000 the actual value may be range within $ 1,000,000 + $ 294,918 and $ 1,000,000 - $ 294,918. By using r2 it means how much of model can explained variance of the data. The perfect score would be 1, but as long as we get as close to 1 it's and by comparing different model we should get the best result.
+for performance evaluation, i use RMSE and r2 for metric performance. With, RMSE we get result of 294918.04, it means our predicted value can range within RMSE value. For example, if we get predicted value $ 1,000,000 the actual value may be range within $ 1,000,000 + $ 294,918 and $ 1,000,000 - $ 294,918. By using r2 it means how much of model can explained variance of the data. The perfect score would be 1, but as long as we get as close to 1 and by comparing different model we should get the best result.
 <h3> 5. Validation Model </h3>
 Doing validation model is very usefull to check the stability of the model that has made. I use KFold with 5 fold. And the result gives good stability for each fold. The following below is the result from validation model :
+  
 ```
  R2 Scores : [0.78653393 0.7270442  0.78919657 0.73249267 0.77987211]
  ```
