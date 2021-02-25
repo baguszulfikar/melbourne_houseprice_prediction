@@ -54,25 +54,25 @@ Doing validation model is very usefull to check the stability of the model that 
 
 ### Home Page :
 <br>
-<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/home.png" alt="" width="950" height="550"></center>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/home.png" alt="" width="950" height="450"></center>
 <br>
 
 ### Prediction Page :
 <br>
-<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/prediction.jpg" alt="" width="950" height="550"></center>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/prediction.jpg" alt="" width="950" height="450"></center>
 <br>
 
 ### Input raw data Page :
 <br>
-<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/input%20raw.jpg" alt="" width="950" height="550"></center>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/input%20raw.jpg" alt="" width="950" height="450"></center>
 <br>
 
 ### Visualization Page :
 <br>
-<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/visual.jpg" alt="" width="950" height="550"></center>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/visual.jpg" alt="" width="950" height="450"></center>
 <br>
 
 ### Database Page :
 <br>
-<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/table.jpg" alt="" width="950" height="550"></center>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/table.jpg" alt="" width="950" height="450"></center>
 <br>
