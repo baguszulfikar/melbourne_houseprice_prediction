@@ -9,9 +9,13 @@ We're gonna look into Melbourne House Price dataset available at <a href="https:
 <br>
 <h2> EDA </h2>
 First we're gonna ask some question regarding house price in melbourne.
+<br>
   - Does price of housing really goes as year passed?
+ <br>
   - What factors most influence property prices in Melbourne?
+  <br>
   - Does the time of year make any difference to the house price?
+  <br>
   - Does distance of the house to the CBD affecting the selling and sales price of the house?
  <br>
 <h2> Step of Work <h2>
