@@ -16,7 +16,6 @@ First we're gonna ask some question regarding house price in melbourne.
  <br>
 <h2> Step of Work <h2>
 <br>
-<br>
 <h3> 1. Preprocessing </h3>
 We're not gonna use any of the Nan values rows because apparently there's many Nan values in BuildingArea and Yearbuilt column. BuildingArea and YearBuilt column definitely gonna affect the price of the house so we need to get rid of the Nan values and using only rows with valid values.
 <br>
