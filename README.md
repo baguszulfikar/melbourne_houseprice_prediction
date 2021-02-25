@@ -2,7 +2,7 @@
 This final project is one of the requirements for graduating from Job Connector Data Science and Machine Learning Purwadhika Start-up and Coding School
 
 <p align="center"  color="rgb(0, 90, 71)">
-<h1>Problem Statement</h1>
+<h2>Problem Statement</h2>
 </p>
 <br>
 We're gonna look into Melbourne House Price dataset available at <a href="https://www.kaggle.com/anthonypino/melbourne-housing-market" style="color:rgb(0, 90, 71) ;"><b>Kaggle</b></a> to see if there's spike in price as year passed. I place myself as Data Scientist working at startup company to help people looking for homes of their dreams by building end-to-end project to determine the price of house with certain characteristic such as Suburb area, Land Area, building Area, Distance from Centar Bussiness District, etc.
