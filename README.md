@@ -32,7 +32,7 @@ I started modelling with Linear model and do Gauss-Markov analysis of residual d
 Second model is Random Forest, which is decision tree based ensemble algorithm and not affected by multicolinearity. Although we get faily acceptable test result of r2 with 0,75 but using training result, we get r2 point by 0,96 which is too much difference and i afraid that the model is overfitting. 
  <br>
  <br>
-Third model i use is Gradient Boosting, which is also decision tree based ensemble algorithm and not affected by multicolinearity. And after training the data and hyperparameter tuning we get fairly good result by 0,80.
+Third model i use is Gradient Boosting, which is also decision tree based ensemble algorithm and not affected by multicolinearity. And after training the data and hyperparameter tuning we get fairly good result by 0,80 and training score by 0,92.
 <br>
 <br>
 <h3> 4. Performance evaluation </h3>
