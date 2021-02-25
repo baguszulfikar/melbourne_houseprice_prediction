@@ -26,7 +26,7 @@ The column we will use for modelling is Suburb, Rooms, Type of building, Distanc
 <h3> 2. Feature engineering </h3>
  I wil try add column that might be useful for predicting which is month and season from Date column and age from Yearbuilt. And after doing visualization based on price it is confirmed that our new column is indeed affecting the housing price in our data.
 <h3> 3. Modelling </h3>
-I started modelling with Linear model and do Gauss-Markov analysis of residual data to determine if linear model is applicable for our dataset. Turned out based on Gauss-Markov analysis, residual data is not meet our assumption, thus linear model is not applicable for our data.
+I started modelling with Linear model and do Gauss-Markov analysis of residual data to determine if linear model is applicable for our dataset. Turned out based on Gauss-Markov analysis, residual data does not meet our assumption, thus linear model is not applicable for our data.
  <br>
  <br> 
 Second model is Random Forest, which is decision tree based ensemble algorithm and not affected by multicolinearity. Although we get faily acceptable test result of r2 with 0,75 but using training result, we get r2 point by 0,96 which is too much difference and i afraid that the model is overfitting. 
