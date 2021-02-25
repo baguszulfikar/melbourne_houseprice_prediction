@@ -43,3 +43,36 @@ Doing validation model is very usefull to check the stability of the model that 
 ```
  R2 Scores : [0.78653393 0.7270442  0.78919657 0.73249267 0.77987211]
  ```
+<br>
+
+--------------------------------------------------------------------
+
+<p align="center"  color="rgb(0, 90, 71)">
+<h1>Dashboard</h1>
+</p>
+<br>
+
+### Home Page :
+<br>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/home.png" alt="" width="950" height="550"></center>
+<br>
+
+### Prediction Page :
+<br>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/prediction.jpg" alt="" width="950" height="550"></center>
+<br>
+
+### Input raw data Page :
+<br>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/input%20raw.jpg" alt="" width="950" height="550"></center>
+<br>
+
+### Visualization Page :
+<br>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/visual.jpg" alt="" width="950" height="550"></center>
+<br>
+
+### Database Page :
+<br>
+<center><img src="https://github.com/baguszulfikar/melbourne_houseprice_prediction/blob/main/dashboard%20image/table.jpg" alt="" width="950" height="550"></center>
+<br>
